@@ -4,7 +4,7 @@
 
 # ℹ️ Introduction
 
-A CLI tool to monitor your **Anthropic Claude Code on AWS Bedrock** usage — tokens consumed, spend per model, and budget status — for the current or any past month.
+A CLI tool to monitor your **Anthropic Claude Code on AWS Bedrock** usage like tokens consumed, spend per model, and budget status for the current or any past month within seconds in just one single command.
 
 ## 📊 What It Shows
 
